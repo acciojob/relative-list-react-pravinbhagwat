@@ -1,5 +1,7 @@
 import React from 'react'
 
+let list = ['ram', 'shyam', 'hari', 'bhole', 'nath', 'gopal', 'krishn', 'kanha', 'shankar'];
+
 const App = () => {
   return (
     <div id="main">
